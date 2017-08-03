@@ -1,3 +1,8 @@
+We've moved! Torsten-math is now on https://github.com/metrumresearchgroup/math/tree/torsten-master/stan/math/torsten.
+
+
+Torsten
+-------
 <b> Torsten </b> (math) is a library of C++ functions that supports applications of Stan in Pharmacometrics. The current prototype provides:
 * One and Two Compartment (with first-order absoprtion) Model functions, that solve ordinary differential equations (ODEs) analytically
 * A Linear ODE-based Model function, that solves ODEs using a matrix exponential solution
